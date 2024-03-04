@@ -1,15 +1,18 @@
-@media(min-width:520px){
+@media(min-width:900px){
+
     
-    
+
 }
 
 @media(max-width:900px){
     .article-title{
         text-align: center;
     }
+   
+    
 
-    .example{
-
+    .nav-Container{
+        padding-left: 10rem;
     }
    
 }
